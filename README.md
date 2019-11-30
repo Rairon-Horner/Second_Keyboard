@@ -1,4 +1,4 @@
-# Second_Keyboard
+# Second Keyboard
 
 Install LuaMacros
 Install AHK
